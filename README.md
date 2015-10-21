@@ -13,7 +13,7 @@ If you need to enter on the same page several YouTube videos and do not want tha
 
 -------------------------------------------------------------------------------------------------------------
 
-References and code base:
+References and base code:
 
 	Alexis Ulrich
 	http://www.sitepoint.com/faster-youtube-embeds-javascript/
