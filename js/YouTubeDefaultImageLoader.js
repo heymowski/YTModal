@@ -50,5 +50,3 @@ function onYouTubeIframeAPIReady() {
         player.destroy();
         //player.stopVideo();
       });
-
-//}
