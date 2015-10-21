@@ -11,12 +11,12 @@ If you need to enter on the same page several YouTube videos and do not want tha
 
 -------------------------------------------------------------------------------------------------------------
 
-Referencias en las que se basa el código:
+References and code base:
 
-	(Alexis Ulrich)
+	Alexis Ulrich
 	http://www.sitepoint.com/faster-youtube-embeds-javascript/
 
- 	(Jesse Schoberg)
+ 	Jesse Schoberg
 	http://schoberg.net/2015/08/fast-agile-youtube-embed-responsive-iframe-load-delay-with-jquery/
 
 	YouTube	
