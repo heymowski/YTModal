@@ -48,5 +48,4 @@ function onYouTubeIframeAPIReady() {
   $('#CloseModalButton').click(function(){
         console.log('Stop Preset');
         player.destroy();
-        //player.stopVideo();
       });
