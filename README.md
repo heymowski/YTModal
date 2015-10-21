@@ -1,6 +1,8 @@
 # YTModal
 Bootstrap Modal &amp; YouTube Video
 
+<a target="_blanck" href="http://heymowski.es/labs/ytmodal/">Bootstrap Modal &amp; YouTube Video Example </a>
+
 -------------------------------------------------------------------------------------------------------------
 
 Si necesitas introducir en una misma página varios vídeos de YouTube y no quieres que eso penalice la carga de la misma, puedes cargarlos con este método mediante el cual primero se carga solo las imágenes default de cada vídeo y posteriormente se carga el vídeo en un modal de bootstrap mediante la iframe_api de YouTube.
@@ -23,5 +25,3 @@ References and code base:
 	https://developers.google.com/youtube/iframe_api_reference
 
 -------------------------------------------------------------------------------------------------------------
-
-<a target="_blanck" href="http://heymowski.es/labs/ytmodal/">Bootstrap Modal &amp; YouTube Video Example </a>
