@@ -24,4 +24,4 @@ References and code base:
 
 -------------------------------------------------------------------------------------------------------------
 
-<a href="http://heymowski.es/ytmodal/"> Example </a>
+<a target="_blanck" href="http://heymowski.es/ytmodal/">Bootstrap Modal &amp; YouTube Video Example </a>
